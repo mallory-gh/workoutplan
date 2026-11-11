@@ -27,3 +27,4 @@ A mobile-first gym tracker for iPhone and iPad. Plain HTML, CSS and JavaScript i
 2. Tap **Share → Add to Home Screen → Add**.
 3. Always open the app from that icon. The home-screen app keeps its data separate from the Safari tab, and iOS doesn't clear home-screen app data for inactivity the way it can for websites.
 4. Each device keeps its own data. Use **Export / Import** in the Programs tab to back up or move data between devices.
+
